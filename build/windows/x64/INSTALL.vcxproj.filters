@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Tomi\Documents\pchess_frontend\pchess_frontend\build\windows\x64\CMakeFiles\7d29914bfa72c9da9d7b550e22d4632d\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D2B8198F-6011-333F-B5C1-D3B92B4B1E40}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
