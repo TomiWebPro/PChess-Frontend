@@ -1,16 +1,14 @@
-# pchess_frontend
+# PChess – Frontend
 
-A new Flutter project.
+This repository contains the frontend source code for **PChess**, developed for my IB Computer Science Internal Assessment.
 
-## Getting Started
+The complete frontend implementation can be found in this repository.
 
-This project is a starting point for a Flutter application.
+## Tech Stack
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter
+- Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## License
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is licensed under the MIT License.
