@@ -11,4 +11,4 @@ The complete frontend implementation can be found in this repository.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT-0 License.
